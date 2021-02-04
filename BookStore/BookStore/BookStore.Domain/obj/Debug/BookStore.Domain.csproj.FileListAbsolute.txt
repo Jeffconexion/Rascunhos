@@ -1,0 +1,6 @@
+C:\AplicacaoFuncional\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.dll
+C:\AplicacaoFuncional\BookStore\BookStore.Domain\bin\Debug\BookStore.Domain.pdb
+C:\AplicacaoFuncional\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.csprojAssemblyReference.cache
+C:\AplicacaoFuncional\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.csproj.CoreCompileInputs.cache
+C:\AplicacaoFuncional\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.dll
+C:\AplicacaoFuncional\BookStore\BookStore.Domain\obj\Debug\BookStore.Domain.pdb
