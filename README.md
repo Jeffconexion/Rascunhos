@@ -11,3 +11,9 @@
 * C#.
 * Entity Framework.
 * Entre outras coisas.
+
+
+
+<p align="center">
+  <img src="https://github.com/Jeffconexion/SysAluno/blob/main/sysProject.gif" />
+</p>
