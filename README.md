@@ -15,5 +15,5 @@
 
 
 <p align="center">
-  <img src="https://github.com/Jeffconexion/SysAluno/blob/main/sysProject.gif" />
+  <img src="https://github.com/Jeffconexion/Rascunhos/blob/main/giphy.webp"/>
 </p>
